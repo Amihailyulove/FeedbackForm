@@ -1,0 +1,437 @@
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\FeedbackFormWebAPI.exe
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\obj\Debug\netcoreapp3.1\FeedbackFormWebAPI.csprojAssemblyReference.cache
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\obj\Debug\netcoreapp3.1\FeedbackFormWebAPI.AssemblyInfoInputs.cache
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\obj\Debug\netcoreapp3.1\FeedbackFormWebAPI.AssemblyInfo.cs
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\obj\Debug\netcoreapp3.1\FeedbackFormWebAPI.RazorTargetAssemblyInfo.cache
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\FeedbackFormWebAPI.StaticWebAssets.Manifest.cache
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\FeedbackFormWebAPI.StaticWebAssets.xml
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\obj\Debug\netcoreapp3.1\FeedbackFormWebAPI.csproj.CoreCompileInputs.cache
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\obj\Debug\netcoreapp3.1\FeedbackFormWebAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\obj\Debug\netcoreapp3.1\FeedbackFormWebAPI.dll
+F:\OneDrive - Белгородский государственный технологический университет им. В.Г. Шухова\ИТ-11\3 год\Практика\Feedback form\FeedbackFormWebAPI\FeedbackFormWebAPI\obj\Debug\netcoreapp3.1\FeedbackFormWebAPI.pdb
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\FeedbackFormWebAPI.exe
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\FeedbackFormWebAPI.deps.json
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\FeedbackFormWebAPI.runtimeconfig.json
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\FeedbackFormWebAPI.runtimeconfig.dev.json
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\FeedbackFormWebAPI.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\FeedbackFormWebAPI.pdb
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\obj\Debug\netcoreapp3.1\FeedbackFormWebAPI.csprojAssemblyReference.cache
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\obj\Debug\netcoreapp3.1\FeedbackFormWebAPI.AssemblyInfoInputs.cache
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\obj\Debug\netcoreapp3.1\FeedbackFormWebAPI.AssemblyInfo.cs
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\obj\Debug\netcoreapp3.1\FeedbackFormWebAPI.RazorTargetAssemblyInfo.cache
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\obj\Debug\netcoreapp3.1\FeedbackFormWebAPI.csproj.CopyComplete
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\FeedbackFormWebAPI.StaticWebAssets.Manifest.cache
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\FeedbackFormWebAPI.StaticWebAssets.xml
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\obj\Debug\netcoreapp3.1\FeedbackFormWebAPI.dll
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\obj\Debug\netcoreapp3.1\FeedbackFormWebAPI.pdb
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\obj\Debug\netcoreapp3.1\FeedbackFormWebAPI.genruntimeconfig.cache
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\obj\Debug\netcoreapp3.1\FeedbackFormWebAPI.csproj.CoreCompileInputs.cache
+F:\Проекты\FeedbackFormWebAPI\FeedbackFormWebAPI\obj\Debug\netcoreapp3.1\FeedbackFormWebAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\FeedbackFormWebAPI.exe
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\FeedbackFormWebAPI.deps.json
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\FeedbackFormWebAPI.runtimeconfig.json
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\FeedbackFormWebAPI.runtimeconfig.dev.json
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\FeedbackFormWebAPI.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\FeedbackFormWebAPI.pdb
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\obj\Debug\netcoreapp3.1\FeedbackFormWebAPI.csprojAssemblyReference.cache
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\obj\Debug\netcoreapp3.1\FeedbackFormWebAPI.AssemblyInfoInputs.cache
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\obj\Debug\netcoreapp3.1\FeedbackFormWebAPI.AssemblyInfo.cs
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\obj\Debug\netcoreapp3.1\FeedbackFormWebAPI.csproj.CoreCompileInputs.cache
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\obj\Debug\netcoreapp3.1\FeedbackFormWebAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\obj\Debug\netcoreapp3.1\FeedbackFormWebAPI.RazorTargetAssemblyInfo.cache
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\obj\Debug\netcoreapp3.1\FeedbackFormWebAPI.csproj.CopyComplete
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\FeedbackFormWebAPI.StaticWebAssets.Manifest.cache
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\FeedbackFormWebAPI.StaticWebAssets.xml
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\obj\Debug\netcoreapp3.1\FeedbackFormWebAPI.dll
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\obj\Debug\netcoreapp3.1\FeedbackFormWebAPI.pdb
+F:\Проекты\FeedbackForm\FeedbackFormWebAPI\FeedbackFormWebAPI\obj\Debug\netcoreapp3.1\FeedbackFormWebAPI.genruntimeconfig.cache

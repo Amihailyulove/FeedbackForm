@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "messageType": "Техподдержка"
+  },
+  {
+    "id": 2,
+    "messageType": "Продажи"
+  },
+  {
+    "id": 3,
+    "messageType": "Отзывы"
+  },
+  {
+    "id": 4,
+    "messageType": "Другое"
+  }
+]

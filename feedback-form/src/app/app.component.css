@@ -1,0 +1,159 @@
+.main-container {
+  font-family: "Calibri", sans-serif;
+  margin: 25px 0 0 25px;
+  padding: 15px;
+  background-color: rgb(248,248,248);
+  border-radius: 15px;
+  box-shadow: 2px 2px 2px #a9a9a9 ;
+  width: 450px;
+}
+
+h2 {
+  position: relative;
+  width: 90%;
+  height: 40px;
+  font-size: 26px;
+  font-weight: normal;
+  padding: 4px 20px 6px 25px;
+  margin: 0 10px 10px -29px;
+  color: #fff;
+  background-color: #a83f2a;
+  -webkit-box-shadow: 0 2px 4px #888;
+  -moz-box-shadow: 0 2px 4px #888;
+  box-shadow: 0 2px 4px #888;
+}
+
+h2:after {
+  content: ' ';
+  position: absolute;
+  width: 0;
+  height: 0;
+  left: 0;
+  top: 100%;
+  border-width: 7px 7px;
+  border-style: solid;
+  border-color: #6c2a12 #6c2a12 transparent transparent;
+}
+
+h2:before {
+  content: ' ';
+  position: absolute;
+  width: 0;
+  height: 0;
+  right: -5px;
+  top: -5px;
+  border-width: 25px 20px;
+  border-style: solid;
+  border-color: transparent rgb(248,248,248) rgb(248,248,248) transparent;
+}
+
+.form {
+  position: relative;
+}
+
+.form:not(:last-child) {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #516571;
+  font-size: 16px;
+  font-weight: bold;
+  margin: 15px 0 0;
+}
+
+input, select, textarea {
+  padding-left: 5px;
+  width: 67%;
+  height: 30px;
+  border: rgb(204, 204, 204) solid 1px;
+  border-radius: 5px;
+}
+
+.name input, .tel-number input, .email input {
+  padding-left: 30px;
+}
+
+.input-icon {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  right: 255px;
+}
+
+.star {
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  right: 5px;
+  top: 5px
+}
+
+.CAPTCHA .star {
+  right: 194px;
+  top: 8px;
+}
+
+.feedback-mes textarea {
+  height: 80px;
+}
+
+.CAPTCHA {
+  color: #516571;
+  font-size: 16px;
+  font-weight: bold;
+  margin: 15px 0;
+}
+
+.CAPTCHA input {
+  margin-left: 84px;
+  width: 22%;
+}
+
+.send-CAPTCHA {
+  width: 200px;
+}
+
+img {
+  margin-left: 10px;
+  vertical-align: middle;
+}
+button {
+  margin: 15px 0 0 138px;
+  padding: 0;
+  width: 32%;
+  height: 25px;
+  border: rgb(204, 204, 204) solid 1px;
+  border-radius: 5px;
+}
+
+input.ng-touched.ng-invalid:not(.captcha), textarea.ng-touched.ng-invalid, select.ng-touched.ng-invalid {
+  border:solid red 2px;
+}
+
+input.ng-touched.ng-valid:not(.captcha), textarea.ng-touched.ng-valid, select.ng-touched.ng-valid {
+  border:solid green 2px;
+}
+
+.error {
+  margin: 10px 0 0 145px;
+  font-size: 14px;
+  color: red;
+}
+
+.add-user {
+  font-size: 20px;
+  color: #516571;
+  font-weight: bold;
+}
+
+.add-user p {
+  margin-top: 15px;
+}
+
+.captchaValid {
+  border:solid green 2px;
+}
+
+.captchaInvalid {
+  border:solid red 2px;
+}

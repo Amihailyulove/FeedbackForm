@@ -1,0 +1,76 @@
+<div class="main-container">
+  <h2 *ngIf="!done">Напишите нам</h2>
+  <h2 *ngIf="done">Отправленные данные</h2>
+  <form [hidden]="done" #feedbackForm="ngForm" novalidate="">
+    <div class="name form">
+      <label>Ваше имя:</label>
+      <input type="text" name="name" ngModel #userName="ngModel"
+             required pattern="[a-zA-Zа-яА-Я0-9-_]{1,}"/>
+      <img class="input-icon" src="/assets/images/name.png">
+      <img class="star" src="/assets/images/star.jpg">
+    </div>
+    <div class="error" [hidden]="userName.valid || userName.untouched">
+      Введите ваше имя! Разрешены только буквы, цифры, символы - _
+    </div>
+    <div class="email form">
+      <label>Ваш Email:</label>
+      <input type="email" name="email" ngModel
+             #userEmail="ngModel" required pattern="[a-zA-Z0-9-.]+@[a-zA-Z0-9-.]+?\.[a-zA-Z]{2,3}"/>
+      <img class="input-icon" src="/assets/images/mail.png">
+      <img class="star" src="/assets/images/star.jpg">
+    </div>
+    <div class="error" [hidden]="userEmail.valid || userEmail.untouched">
+      Проверьте корректность введёного email!
+    </div>
+    <div class="tel-number form">
+      <label>Ваш телефон:</label>
+      <input type="text" [textMask]="{mask: mask}" placeholder="+7 (___) ___-__-__"
+             name="phoneNumber" ngModel #userNumber="ngModel"
+             required pattern="^((8|\+7)[\- ]?)?(\(?\d{3}\)?[\- ]?)?[\d\- ]{7,18}$"/>
+      <img class="input-icon" src="/assets/images/phone.png">
+      <img class="star" src="/assets/images/star.jpg">
+    </div>
+    <div class="error" [hidden]="userNumber.valid || userNumber.untouched">
+      Введите ваш номер телефона полностью, согласно заданному шаблону!
+    </div>
+    <div class="feedback-type form">
+      <label>Тема:</label>
+      <select name="mesType" ngModel #mesType="ngModel" required>
+        <option *ngFor="let messagesType of mesTypes" [value]="messagesType.id">
+          {{messagesType.messageType}}
+        </option>
+      </select>
+    </div>
+    <div class="error" [hidden]="mesType.valid || mesType.untouched">
+      Выберете тему сообщения!
+    </div>
+    <div class="feedback-mes form">
+      <label>Ваше сообщение:</label>
+      <textarea name="userMessage" ngModel #userMessage="ngModel" required></textarea>
+      <img class="star" src="/assets/images/star.jpg">
+    </div>
+    <div class="error" [hidden]="userMessage.valid || userMessage.untouched">
+      Выберете ваше сообщение!
+    </div>
+    <div class="CAPTCHA form">
+      <label>Цифры:</label>
+      <input class="captcha" [ngClass]="{captchaInvalid: !keyValid}" name="captchaKey" ngModel required/>
+      <img (click)="reCaptcha()" [src]="image">
+      <img class="star" src="/assets/images/star.jpg">
+      <div [hidden]="keyValid" class="error">
+        Введённые символы не совпадают с символами на изображении!
+      </div>
+      <button [disabled]="feedbackForm.invalid" (click)="submit(feedbackForm)">Отправить письмо!</button>
+    </div>
+  </form>
+  <div></div>
+  <div *ngIf="done" class="add-user">
+    <p>Имя: {{receivedUser.name}}</p>
+    <p>Email: {{receivedUser.email}}</p>
+    <p>Номер телефона: {{receivedUser.phoneNumber}}</p>
+    <p>Тема сообщения: {{mesTypes[receivedMes.mesTypeId].messageType}}</p>
+    <p>Сообщение: {{receivedMes.userMessage}}</p>
+    <button (click)="reload()">Новое сообщение</button>
+  </div>
+</div>
+
